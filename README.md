@@ -1,0 +1,1 @@
+This is a cloned, fictional band website from a WC3 design/template using pure HTML, CSS, and Bootstrap 3 for responsive layout. I have made this cloned website from scratch purely for educational purposes only, as a personal project to showcase in my website portfolio. No intended design and copyright infringement, and all rights belong to their respective owners.
