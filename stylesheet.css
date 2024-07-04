@@ -1,0 +1,385 @@
+/* This extends grid layout from main.css */
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	font-family: "Lato", sans-serif;
+}
+
+header {
+	background-color: black;
+	color: white;
+	text-transform: uppercase;
+	width: 100%;
+	height: 50px;
+	margin: 0;
+	position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.navbar {
+	border: none ;
+	border-radius: 0;
+}
+
+.navbar-inverse {
+	background-color: rgba(0,0,0,0.1);
+}
+
+.navbar-brand{
+	font-size: 24px;
+	word-spacing: 5px;
+}
+
+.navbar-collapse{
+	background-color: rgba(0, 0, 0, 0.9);
+	color: white;
+}
+
+#brand {
+	float: left;
+}
+
+#brand h2{
+	margin-top: 10px;
+}
+
+#nav {
+	float: right;
+}
+
+#nav ul{
+	margin: 0;
+	padding: 0;
+}
+
+#nav li {
+	display: inline;
+	padding: 0 20px 0 20px;
+}
+
+#nav a {
+	text-decoration: none;
+	color: white;
+}
+
+.dropdown-menu{
+	background-color: white;
+	box-shadow: 1px 1px rgba(255,255,255,0.3);
+}
+
+.dropdown-menu a{
+	color: white;
+}
+
+#showcase {
+	width: 100%;
+	height: 450px;
+	background-image: url('https://www.w3schools.com/w3images/chicago.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.section-header{
+	letter-spacing: 5px;
+
+}
+
+#band-profile {
+	padding-top: 50px;
+	text-align: center;
+	margin-bottom: 80px;
+}
+
+#band-profile .grid-center {
+	width: 80%;
+}
+
+#band-profile h2{
+	text-transform: uppercase;
+}
+
+#band-profile small{
+	color: gray;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#band-profile p{
+	margin-top: 30px;
+	text-align: justify;
+	line-height: 1.5;
+}
+
+#band-members {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#band-members p{
+	text-align: center;
+}
+
+
+.img-band-member {
+	width: 60%;
+	margin: 0 auto;
+	display: block;
+}
+
+#tours{
+	text-align: center;
+	background-image: url('https://www.w3schools.com/w3images/chicago.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	color: white;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.bg-overlay {
+	background-color: rgba(0,0,0,0.7);
+	padding-bottom: 50px;
+}
+
+#tours .grid-center {
+	width: 60%;
+	padding-top: 50px;
+}
+
+#tours #heading{
+	text-align: center;
+}
+
+#tours #heading h2{
+	text-transform: uppercase;
+}
+
+#tours #heading p{
+	color: gray;
+	font-weight: bold;
+}
+
+#dates {
+margin-top: 40px;
+}
+
+.tour{
+	padding: 10px;
+	padding-left: 20px;
+	border: 0.5px solid #ddd;
+	background-color: white;
+	color: #757575;
+	overflow: auto;
+}
+
+.sold-out {
+	display: inline-block;
+	margin-left: 20px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background-color: red;
+    color: white;
+}
+
+.left {
+	display: inline-block;
+	float: left;
+}
+
+.tickets {
+	margin-left: 20px;
+  padding: 2px 7px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  border-radius: 50%;
+}
+
+#cities {
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-left: -5px;
+
+}
+
+#cities .col-4 {
+	margin: 0 8px;
+	width: 31.35%;
+	background-color: white;
+	color: black;
+	overflow: hidden;
+
+}
+
+#cities .col-md-4 {
+	padding: 5px;
+}
+
+.card {
+	background-color: white;
+	color: black;
+	overflow: hidden;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+img .city {
+	width: 100%;
+	margin: none;
+	padding: none;
+}
+
+.col-4 .description{ !not using
+	text-align: left;
+	padding: 16px;
+	padding-top: 2px;
+}
+
+.col-md-4 .description{
+	text-align: left;
+	padding: 16px;
+	padding-top: 10px;
+}
+
+.city-h1 {
+	font-weight: bold;
+}
+
+.date-time{
+	color: gray;
+}
+
+.buy-tickets {
+	background-color: black;
+	color: white;
+	border: 1px solid black;
+	padding: 8px 12px;
+	vertical-align: middle;
+	font: inherit;
+}
+
+.buy-tickets:hover {
+	background-color: white;
+	color: black;
+	border: 1px solid black;
+	padding: 8px 12px;
+	vertical-align: middle;
+	font: inherit;
+}
+
+#contact{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: white;
+	color: black;
+}
+
+#contact .grid-center {
+	width: 60%;
+}
+
+
+#contact #heading{
+	text-align: center;
+	color: gray;
+	margin-bottom: 50px;
+}
+
+#contact #heading h2{
+	color: black;
+	text-transform: uppercase;
+}
+
+#contact-info{
+	text-align: left;
+	margin: 20px 0px;
+}
+
+.contact-info{
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0;
+}
+
+.icon {
+	display: inline-block;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+#form{
+	margin: 20px 0px;
+}
+
+
+form .row .col-md-12 .input{
+	padding-right: 0px;
+
+}
+
+form .row .col-md-6 .input{
+	padding-right: 0px;
+	margin-left: 0px;
+}
+
+.input {
+	padding: 10px;
+	height: 40px;
+	margin-bottom: 10px;
+	width: 100%
+}
+
+.message{
+	width: 100%;
+	overflow: none;
+}
+
+.form-send{
+	margin-top: 5px;
+	border: none;
+	padding: 10px 65px;
+	color: white;
+	background-color: black;
+	text-transform: uppercase;
+	width: 100%;
+}
+
+.bg-img {
+	width: 100%;
+}
+
+footer{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+#social{
+	letter-spacing: 5px;
+}
+
+.center-items{
+	margin: 0 auto;
+	width: 50%;
+	overflow: none;
+}
+
+.center-margin{
+	margin: 0 auto;
+}
