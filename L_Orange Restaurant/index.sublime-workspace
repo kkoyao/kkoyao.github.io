@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"contai",
+				"container-fluid"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"labe",
+				"label-primary"
+			],
+			[
+				"lab",
+				"label-default"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"container",
+				"container"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"gr",
+				"grid"
+			],
+			[
+				"ht",
+				"https"
+			],
+			[
+				"blu",
+				"blue-font"
+			],
+			[
+				"fon",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bord",
+				"border-left\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"so",
+				"social-icon"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"rgb",
+				"rgba()\tcolor"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"backgro",
+				"background-position\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"mi",
+				"min-height\tproperty"
+			],
+			[
+				"book-",
+				"book-card"
+			],
+			[
+				"thu",
+				"thumbnail-edit"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"navbar",
+				"navbar-right"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"grid",
+				"grid-center"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"overflo",
+				"text-overflow"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"padd-",
+				"padding-right"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"gri",
+				"grid-center"
+			],
+			[
+				"tex",
+				"text-align-last"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"sha",
+				"box-shadow"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"show",
+				"showcase-heading"
+			],
+			[
+				"a",
+				"auto"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"install",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Owner/Google Drive/Web Progamming/MyPhpCMS/SampleCtrl.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/MyPhpCMS/Paginator/PaginatorClass.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/Online Ads Prototype/doodles/Routes.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/Online Ads Prototype/doodles/View.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/L'Orange Restaurant/stylesheet.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/L'Orange Restaurant/index.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Online Ads Prototype/doodles/navigation.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Online Ads Prototype/Utilities/ServiceClass.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/MyPhpCMS/ModelClass.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/MyPhpCMS/add.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/MyPhpCMS/ArticleClass.php",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/books.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/about.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/index.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/css/index.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/template.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/WC3 The Band Template Clone - Responsive/index.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/WC3 The Band Template Clone - Responsive/stylesheet.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/WC3 The Band Template Clone - Responsive/main.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/css/about.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/i-want-sam-2.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/css/i-want-sam-2.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/css/books.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/about.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/WC3 The Band Template Clone/index.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/assets/about.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/assets/css/about.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/WC3 Practice/blackhole.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/WC3 Practice/kodaline-music.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/WC3 Practice/kodaline.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/WC3 Practice/index.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/WC3 Practice/aplin.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/about2.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Kenny Yao Website 2.0/books-alternate.html",
+		"/C/ProgramData/New Sonic Arts/Nuance/Documentation/index.html",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/WC3 The Band Template Clone/stylesheet.css",
+		"/C/Users/Owner/Google Drive/Web Progamming/Personal Practice Projects/WC3 The Band Template Clone/main.css",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/Owner/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Program Files (x86)/Audacity/help/manual/quick_help.html",
+		"/C/ProgramData/Ableton/Live 9 Lite/Resources/MIDI Remote Scripts/MiniLab_mkII/MiniLabMk2.pyc",
+		"/C/ProgramData/Ableton/Live 9 Lite/Resources/MIDI Remote Scripts/MiniLab_mkII/__init__.pyc",
+		"/C/ProgramData/Ableton/Live 9 Lite/Resources/MIDI Remote Scripts/_Arturia/SessionComponent.pyc",
+		"/C/ProgramData/Ableton/Live 9 Lite/Resources/MIDI Remote Scripts/_Arturia/ArturiaControlSurface.pyc",
+		"/C/Users/Owner/Google Drive/Web Progamming/Udacity/portfolio/applying the framework/applying-the-framework.html",
+		"/C/Users/Owner/AppData/Local/Temp/Temp1_bootstrap-4.1.0.zip/bootstrap-4.1.0/_layouts/examples.html",
+		"/C/ProgramData/Ableton/Live 9 Lite/Resources/MIDI Remote Scripts/MiniLab_mkII/HardwareSettingsComponent.pyc",
+		"/C/ProgramData/Ableton/Live 9 Lite/Resources/MIDI Remote Scripts/MiniLab_mkII/SessionComponent.pyc",
+		"/C/Users/Owner/AppData/Local/Temp/Temp1_html5-boilerplate_v6.0.1.zip/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hero",
+			">\n",
+			"!",
+			"<!--",
+			"!",
+			"!..",
+			"!"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
